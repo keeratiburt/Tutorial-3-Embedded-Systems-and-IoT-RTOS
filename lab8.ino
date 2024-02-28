@@ -1,3 +1,7 @@
+  /*
+    ESP32 จะมี
+  */
+
 #define ledPIN1 4
 #define ledPIN2 15
 
